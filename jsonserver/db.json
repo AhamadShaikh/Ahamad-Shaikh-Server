@@ -1,0 +1,64 @@
+{
+  "Customers": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "title": "CEO",
+      "details":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Harum exercitationem autem, rerum iste enim at iure? Reiciendis optio totam ducimus quae architecto, mollitia explicabo voluptas quas illum exercitationem? Distinctio praesentium repudiandae asperiores ipsa? Reprehenderit, ea."
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "title": "CTO",
+      "details":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Harum exercitationem autem, rerum iste enim at iure? Reiciendis optio totam ducimus quae architecto, mollitia explicabo voluptas quas illum exercitationem? Distinctio praesentium repudiandae asperiores ipsa? Reprehenderit, ea."
+    },
+    {
+      "id": 3,
+      "name": "Michael Johnson",
+      "title": "CFO",
+      "details":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Harum exercitationem autem, rerum iste enim at iure? Reiciendis optio totam ducimus quae architecto, mollitia explicabo voluptas quas illum exercitationem? Distinctio praesentium repudiandae asperiores ipsa? Reprehenderit, ea."
+    },
+    {
+      "id": 4,
+      "name": "Emily Brown",
+      "title": "COO",
+      "details":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Harum exercitationem autem, rerum iste enim at iure? Reiciendis optio totam ducimus quae architecto, mollitia explicabo voluptas quas illum exercitationem? Distinctio praesentium repudiandae asperiores ipsa? Reprehenderit, ea."
+    },
+    {
+      "id": 5,
+      "name": "David Wilson",
+      "title": "VP of Marketing",
+      "details":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Harum exercitationem autem, rerum iste enim at iure? Reiciendis optio totam ducimus quae architecto, mollitia explicabo voluptas quas illum exercitationem? Distinctio praesentium repudiandae asperiores ipsa? Reprehenderit, ea."
+    },
+    {
+      "id": 6,
+      "name": "Sarah Taylor",
+      "title": "VP of Sales",
+      "details":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Harum exercitationem autem, rerum iste enim at iure? Reiciendis optio totam ducimus quae architecto, mollitia explicabo voluptas quas illum exercitationem? Distinctio praesentium repudiandae asperiores ipsa? Reprehenderit, ea."
+    },
+    {
+      "id": 7,
+      "name": "James Martinez",
+      "title": "Senior Engineer",
+      "details":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Harum exercitationem autem, rerum iste enim at iure? Reiciendis optio totam ducimus quae architecto, mollitia explicabo voluptas quas illum exercitationem? Distinctio praesentium repudiandae asperiores ipsa? Reprehenderit, ea."
+    },
+    {
+      "id": 8,
+      "name": "Jessica Lee",
+      "title": "Product Manager",
+      "details":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Harum exercitationem autem, rerum iste enim at iure? Reiciendis optio totam ducimus quae architecto, mollitia explicabo voluptas quas illum exercitationem? Distinctio praesentium repudiandae asperiores ipsa? Reprehenderit, ea."
+    },
+    {
+      "id": 9,
+      "name": "William Anderson",
+      "title": "Software Developer",
+      "details":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Harum exercitationem autem, rerum iste enim at iure? Reiciendis optio totam ducimus quae architecto, mollitia explicabo voluptas quas illum exercitationem? Distinctio praesentium repudiandae asperiores ipsa? Reprehenderit, ea."
+    },
+    {
+      "id": 10,
+      "name": "Olivia Garcia",
+      "title": "Graphic Designer",
+      "details":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Harum exercitationem autem, rerum iste enim at iure? Reiciendis optio totam ducimus quae architecto, mollitia explicabo voluptas quas illum exercitationem? Distinctio praesentium repudiandae asperiores ipsa? Reprehenderit, ea."
+    }
+  ]
+}
